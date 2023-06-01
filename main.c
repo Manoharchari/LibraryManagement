@@ -132,7 +132,7 @@ void  main() {
  {
      printf("\n");
      printf("*****************************************************\n");
- printf("*******LIBRARY MENU********");
+ printf("*******our LIBRARY MENU********");
  printf("\n1:Add  New Books\n2:Display Book Information\n3:Display All The Books\n4:Go to Book issue/Receive\n5:View Issued Books\n5:Display total number of books in the library\n6:Exit\n");
  printf("Enter your Choice:");
  scanf("%d",&o);
